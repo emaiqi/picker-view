@@ -2,7 +2,7 @@
   <!--<view>{{year}}年{{month}}月{{day}}日</view>-->
   <picker-view indicator-style="height: 50px;" style="width: 100%; height: 300px;" value="{{value}}" bindchange="bindChange">
     <picker-view-column>
-      <view wx:for="{{years}}" style="line-height: 50px;font-size:15px;text-align: center;">{{item}}</view>
+      <view wx:for="{{years}}" bindscroll="scrollProvince" style="line-height: 50px;font-size:15px;text-align: center;width: 120rpx;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;margin: 0 auto;">{{item}}</view>
     </picker-view-column>
     <picker-view-column>
       <view wx:for="{{months}}" style="line-height: 50px;font-size:15px;text-align: center;">{{item}}</view>
@@ -12,7 +12,7 @@
     </picker-view-column>
   </picker-view>
 </view>
-<view>{{nian}}年{{yue}}月{{ri}}日</view>
+<view>{{nian}}--{{yue}}--{{ri}}</view>
 <button bindtap="enter">测试</button>
 <button bindtap="yes">更新数据</button>
 
