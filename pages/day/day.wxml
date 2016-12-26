@@ -15,4 +15,5 @@
 <view>{{nian}}--{{yue}}--{{ri}}</view>
 <button bindtap="enter">测试</button>
 <button bindtap="yes">更新数据</button>
-
+<view class="btn-background"><button bindtap="cancelPick">取消</button><button bindtap="enterPick">确定</button>
+</view>

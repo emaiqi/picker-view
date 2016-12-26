@@ -43,6 +43,12 @@ Page({
 			})
 		}
 	},
+	cancelPick:function () {
+
+	},
+	enterPick:function () {
+
+	},
 	enter: function () {
 		if (typeof(riqi) == "undefined") {
 			this.setData({
