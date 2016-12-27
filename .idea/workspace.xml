@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa14093a-1c9e-404a-afbb-e1149704415b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/day/day.js" afterPath="$PROJECT_DIR$/pages/day/day.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/day/day.wxml" afterPath="$PROJECT_DIR$/pages/day/day.wxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/day/day.wxss" afterPath="$PROJECT_DIR$/pages/day/day.wxss" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,26 +26,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="day.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="day.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/day/day.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="50" column="4" lean-forward="false" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+            <state relative-caret-position="630">
+              <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+              <folding>
+                <element signature="e#355#497#0" expanded="false" />
+                <element signature="e#517#782#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day.wxss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/day/day.wxss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day.wxml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="day.wxml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/day/day.wxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="17" column="95" lean-forward="false" selection-start-line="17" selection-start-column="86" selection-end-line="17" selection-end-column="95" />
+            <state relative-caret-position="210">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="28" />
               <folding>
-                <element signature="n#style#0;n#picker-view#0;n#view#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#view#0;n#picker-view-column#0;n#picker-view#0;n#view#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#view#0;n#picker-view-column#1;n#picker-view#0;n#view#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#view#0;n#picker-view-column#2;n#picker-view#0;n#view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#view#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#view#0;n#picker-view-column#0;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#view#0;n#picker-view-column#1;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#view#0;n#picker-view-column#2;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,8 +99,9 @@
         <option value="$PROJECT_DIR$/data/data.js" />
         <option value="$PROJECT_DIR$/app.json" />
         <option value="$PROJECT_DIR$/pages/data/data.js" />
-        <option value="$PROJECT_DIR$/pages/day/day.wxml" />
+        <option value="$PROJECT_DIR$/pages/day/day.wxss" />
         <option value="$PROJECT_DIR$/pages/day/day.js" />
+        <option value="$PROJECT_DIR$/pages/day/day.wxml" />
       </list>
     </option>
   </component>
@@ -97,8 +114,18 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1932" />
+    <option name="width" value="1936" />
     <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -116,8 +143,15 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="moni" />
@@ -162,7 +196,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,12 +220,6 @@
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="" />
       <node-interpreter value="project" />
       <envs />
@@ -253,19 +280,20 @@
       <workItem from="1482657228697" duration="12009000" />
       <workItem from="1482719374755" duration="3447000" />
       <workItem from="1482758823290" duration="2832000" />
+      <workItem from="1482801363710" duration="6055000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18288000" />
+    <option name="totallyTimeSpent" value="24343000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24920802" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24868283" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286334" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -303,20 +331,24 @@
     <entry file="file://$PROJECT_DIR$/pages/day/day.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#355#497#0" expanded="false" />
+            <element signature="e#517#782#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/day/day.wxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="510">
+          <caret line="17" column="95" selection-start-line="17" selection-start-column="86" selection-end-line="17" selection-end-column="95" />
           <folding>
-            <element signature="n#style#0;n#picker-view#0;n#view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#view#0;n#picker-view-column#0;n#picker-view#0;n#view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#view#0;n#picker-view-column#1;n#picker-view#0;n#view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#view#0;n#picker-view-column#2;n#picker-view#0;n#view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#view#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#view#0;n#picker-view-column#0;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#view#0;n#picker-view-column#1;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#view#0;n#picker-view-column#2;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -324,22 +356,50 @@
     <entry file="file://$PROJECT_DIR$/pages/day/day.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#355#497#0" expanded="false" />
+            <element signature="e#517#782#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/day/day.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#view#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#view#0;n#picker-view-column#0;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#view#0;n#picker-view-column#1;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#view#0;n#picker-view-column#2;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/day/day.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#355#497#0" expanded="false" />
+            <element signature="e#517#782#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
-          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/data/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
-          <caret line="34" column="27" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="27" />
+          <caret line="34" column="27" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="27" />
           <folding>
             <element signature="e#774#795#0" expanded="false" />
             <element signature="e#1181#1487#0" expanded="false" />
@@ -353,14 +413,15 @@
     <entry file="file://$PROJECT_DIR$/pages/day/day.wxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="4" column="68" lean-forward="false" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
-          <caret line="7" column="69" lean-forward="false" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
-          <caret line="10" column="67" lean-forward="false" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
+          <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
+          <caret line="7" column="69" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="69" />
+          <caret line="10" column="67" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
           <folding>
-            <element signature="n#style#0;n#picker-view#0;n#view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#view#0;n#picker-view-column#0;n#picker-view#0;n#view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#view#0;n#picker-view-column#1;n#picker-view#0;n#view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#view#0;n#picker-view-column#2;n#picker-view#0;n#view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#view#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#view#0;n#picker-view-column#0;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#view#0;n#picker-view-column#1;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#view#0;n#picker-view-column#2;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -368,56 +429,56 @@
     <entry file="file://$PROJECT_DIR$/pages/data/data.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/util.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
-          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="9" />
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/mta_analysis.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/data/data.wxss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
-          <caret line="135" column="17" lean-forward="false" selection-start-line="135" selection-start-column="17" selection-end-line="135" selection-end-column="17" />
+          <caret line="135" column="17" selection-start-line="135" selection-start-column="17" selection-end-line="135" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
-          <caret line="34" column="32" lean-forward="false" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/data/data.wxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="40" />
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -425,7 +486,7 @@
     <entry file="file://$PROJECT_DIR$/pages/data/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="34" column="27" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="27" />
+          <caret line="34" column="27" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="27" />
           <folding>
             <element signature="e#774#795#0" expanded="false" />
             <element signature="e#1181#1487#0" expanded="false" />
@@ -439,28 +500,40 @@
     <entry file="file://$PROJECT_DIR$/data/data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="563">
-          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/day/day.wxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="17" column="95" lean-forward="false" selection-start-line="17" selection-start-column="86" selection-end-line="17" selection-end-column="95" />
-          <folding>
-            <element signature="n#style#0;n#picker-view#0;n#view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#view#0;n#picker-view-column#0;n#picker-view#0;n#view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#view#0;n#picker-view-column#1;n#picker-view#0;n#view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#view#0;n#picker-view-column#2;n#picker-view#0;n#view#0;n#!!top" expanded="true" />
-          </folding>
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/day/day.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="50" column="4" lean-forward="false" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        <state relative-caret-position="630">
+          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+          <folding>
+            <element signature="e#355#497#0" expanded="false" />
+            <element signature="e#517#782#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/day/day.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/day/day.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#view#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#view#0;n#picker-view-column#0;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#view#0;n#picker-view-column#1;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#view#0;n#picker-view-column#2;n#picker-view#0;n#view#0;n#view#3;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
