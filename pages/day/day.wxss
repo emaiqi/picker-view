@@ -5,8 +5,8 @@
 	left: 0;
 	right: 0;
 	bottom: 0;
-	/*background-color: rgba(0, 0, 0, 0.5);*/
-	z-index: -10;
+	background-color: rgba(0, 0, 0, 0.5);
+
 }
 
 .box-hide {
@@ -18,6 +18,11 @@
 
 .show-box{
 	z-index: 1;
+}
+
+picker-view{
+	position: absolute;
+	bottom: 0;
 }
 .hide-show{
 	z-index: -13;

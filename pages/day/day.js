@@ -45,7 +45,6 @@ Page({
 		})
 	},
 	enterPick: function () {
-
 		console.log(c[0][p[0][0]][0]);
 		this.setData({
 			boxHide:"box-hide",
@@ -53,7 +52,6 @@ Page({
 			years: p[0],
 			months: c[0][p[0][0]],
 			days: a[0][c[0][p[0][0]][0]]
-
 		})
 	},
 	enter: function () {
